@@ -10,3 +10,6 @@ dependencies:
 - name: jx-test6
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: jx-test7
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
